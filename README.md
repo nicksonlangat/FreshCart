@@ -1,16 +1,12 @@
-# ukwala
+# About FreshCarts
+An online grocery store app built in Flutter that promises fast,\
+stress free and convenient ordering and delivery of household items.
 
-A new Flutter project.
+Download the installable apk via
+<a href="https://urbane-hide.vercel.app/"> this link</a>
 
-## Getting Started
 
-This project is a starting point for a Flutter application.
+It looks like below:
 
-A few resources to get you started if this is your first Flutter project:
 
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
-
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+<img src="screens/4.png" width="900"/>
