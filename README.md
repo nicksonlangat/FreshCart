@@ -9,4 +9,4 @@ Download the installable apk via
 It looks like below:
 
 
-<img src="screens/4.png" width="900"/>
+<img src="screens/5.png" width="900"/>
